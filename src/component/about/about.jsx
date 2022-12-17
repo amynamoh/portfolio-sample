@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/notMe'
+// import ME from '../../assets/notMe'
 import {FaAward} from 'react-icons/fa'
 import {AiOutlineUser} from 'react-icons/ai'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -14,7 +14,7 @@ const About = () => {
       <div className="container aboutContainer">
         <div className="aboutMe">
           <div className="aboutMeImage">
-            <img src={ME} alt="About Image" />
+            {/* <img src={ME} alt="About Image" /> */}
           </div>
         </div>
         <div className="aboutContent">

@@ -13,44 +13,44 @@ const data=[
   {
     id: 1,
     image: IMG1,
-    title: 'crypto Currency Dashboard',
+    title: 'Crypto Dashboard',
     github: 'https://github.com/amynamoh',
-    demo: 'hhttps://cdn.dribbble.com/userupload/3814904/file/original-7a32ec6e60b53882eabd710213180723.png?compress=1&crop=164x123-1436x1077&resize=320x240&vertical=top'
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Figma Dashboard',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19650455-Mockingbirds'
+    github: 'https://github.com/amynamoh',
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'xxxxx x x x x x ',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19659078-Mural-website-design'
+    title: 'linktree clone',
+    github: 'https://github.com/amynamoh',
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'yyyyy y yyy y',
-    github: 'https://github.com',
-    demo: 'https://max.adobe.com/?sdid=1K8FDB4T&mv=other'
+    title: 'education website',
+    github: 'https://github.com/amynamoh',
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'zzzz zz z z',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/19659933-Spaces-Mobile'
+    title: 'website landing page',
+    github: 'https://github.com/amynamoh',
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'sghsbhj sjjkkkkkk',
-    github: 'https://github.com',
-    demo: 'https://cdn.dribbble.com/userupload/3814852/file/still-6e956ff187c3b09c919e913c8a96049f.png?compress=1&resize=320x240&vertical=top'
+    title: 'e-commerce website',
+    github: 'https://github.com/amynamoh',
+    demo: 'https://www.linkedin.com/in/amina-mohammed-29b1b61a6/'
   },
 ]
 
